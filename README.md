@@ -12,3 +12,4 @@ Connection (Based on SAMD21 xplained Pro and SPI SERCOM0)
 	PA05			    	display_CS
 	PA06			    	display SDA
 	PA07			    	display SCL
+(https://github.com/MohannadRawashdeh/E-Paper-display-296x152/blob/master/Display%20018.JPG)
