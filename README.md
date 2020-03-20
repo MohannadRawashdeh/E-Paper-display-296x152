@@ -6,10 +6,9 @@ the library using SPI communication bus , will add a support for DMA and ASYNC S
 Connection (Based on SAMD21 xplained Pro and SPI SERCOM0)
 
   SAMD21		->		Dispaly
-	PB04			    	Display_BUSY_pin
-	PB06			    	Display_RST_pin
-	PB07			    	Display_DC_pin
-	PA05			    	display_CS
-	PA06			    	display SDA
-	PA07			    	display SCL
-(https://github.com/MohannadRawashdeh/E-Paper-display-296x152/blob/master/Display%20018.JPG)
+*	PB04	---------->	    	Display_BUSY_pin
+*	PB06	---------->		Display_RST_pin
+*	PB07	---------->		Display_DC_pin
+*	PA05	---------->		display_CS
+*	PA06	---------->		display SDA
+*	PA07	---------->		display SCL
